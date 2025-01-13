@@ -10,23 +10,36 @@ Welcome to the Instagram User Analytics project! This initiative revolves around
 Project Structure
 
 ├── LICENSE
+
 ├── README.md          <- README .
+
 ├── query              <- Code of the DB creation and queries.
+
 │   │
+
 │   └── data_from_query                    <- Data Queried.
+
 │   └── query.sql                          <- Final queries.
 
 ├── reports            <- Folder containing the final reports/results of this project.
+
 │   │
+
 │   └── SQL Analysis Report.pdf            <- Final analysis report in PDF.
+
 │   └── pbi                                <- Dashboard.
+
 │   
 ├── src                <- Source for this project.
-    │
+4
+
+
+|    
     ├── data           <- Datasets used and collected for this project.
-    │   
-    ├── database.sql                       <- DB creation.
-    │
+    
+|   |── database.sql                       <- DB creation.
+    
+│
     ├── preprocesing.sql                   <- Preprocessing SQL queries.
 
 
@@ -83,7 +96,7 @@ To embark on this journey of Instagram User Analytics:
 
 Prerequisites: Ensure you have Python (version X.Y) installed along with required libraries listed in requirements.txt.
 
-Clone the Repository: Clone this repository to your local machine using git clone https://github.com/tushar2704/instagram-user-analytics.git.
+Clone the Repository: Clone this repository to your local machine using git clone https://github.com/di1112/Instagram-User-Analytics.git.
 
 Dataset: Download the "IG_analytics_dataset" from [link] and place it in the data directory.
 
